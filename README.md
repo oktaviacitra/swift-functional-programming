@@ -10,3 +10,7 @@ To create each file, I always look for references. So, I put it here.
 
 ### FilterWithCriteria.swift
 - <a href="https://flexiple.com/ios/introduction-to-functional-programming-using-swift/">Online article</a>
+
+
+### ExtractAttributes.swift
+- <a href="https://flexiple.com/ios/introduction-to-functional-programming-using-swift/">Online article</a>
