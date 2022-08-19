@@ -14,3 +14,6 @@ To create each file, I always look for references. So, I put it here.
 
 ### ExtractAttributes.swift
 - <a href="https://flexiple.com/ios/introduction-to-functional-programming-using-swift/">Online article</a>
+
+### DecodeDictionary.swift
+- <a href="https://www.youtube.com/watch?v=VhCc2DzIX00&t=268s">Tutorial video</a>
