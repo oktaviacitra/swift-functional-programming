@@ -17,3 +17,6 @@ To create each file, I always look for references. So, I put it here.
 
 ### DecodeDictionary.swift
 - <a href="https://www.youtube.com/watch?v=VhCc2DzIX00&t=268s">Tutorial video</a>
+
+### SortByPrice.swift
+- <a href="https://www.youtube.com/watch?v=VhCc2DzIX00&t=532s">Tutorial video</a>
