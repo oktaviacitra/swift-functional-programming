@@ -20,3 +20,8 @@ To create each file, I always look for references. So, I put it here.
 
 ### SortByPrice.swift
 - <a href="https://www.youtube.com/watch?v=VhCc2DzIX00&t=532s">Tutorial video</a>
+
+### CalculateEuclideanDistance.swift
+- <a href="https://gist.github.com/joninsky/c7698dc7deab8baf79a86a6b6b1a0251">Github</a>
+<img width="408" alt="Screen Shot 2022-08-23 at 14 31 39" src="https://user-images.githubusercontent.com/49669018/186098461-27008382-68d6-4382-96f7-a6d3d502da49.png">
+
