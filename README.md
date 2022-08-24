@@ -27,5 +27,6 @@ To create each file, I always look for references. So, I put it here.
 
 ### CalculateCosineSimilarity.swift
 - <a href="https://gist.github.com/joninsky/4a8773f13fb5ff4513060ef03c8035d7">Github</a>
+
 ![Cosine-similarity-formula](https://user-images.githubusercontent.com/49669018/186356953-16ace12d-3a88-4097-90ec-fdfe0d5a393a.png)
 
