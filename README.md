@@ -27,6 +27,9 @@ To create each file, I always look for references. So, I put it here.
 
 ### CalculateCosineSimilarity.swift
 - <a href="https://gist.github.com/joninsky/4a8773f13fb5ff4513060ef03c8035d7">Github</a>
+<img width="457" alt="Screen Shot 2022-08-25 at 18 20 42" src="https://user-images.githubusercontent.com/49669018/186651356-9fe933b4-2d1d-48b7-8abe-6b39ca84ac6f.png">
 
-![Cosine-similarity-formula](https://user-images.githubusercontent.com/49669018/186356953-16ace12d-3a88-4097-90ec-fdfe0d5a393a.png)
+### CalculateManhattanDistance.swift
+- <a href="https://www.codespeedy.com/compute-manhattan-distance-between-two-points-in-cpp/">Online Article</a>
+<img width="359" alt="Screen Shot 2022-08-25 at 18 21 11" src="https://user-images.githubusercontent.com/49669018/186651585-c97165a4-16ac-438e-9de7-3ae140b5b822.png">
 
