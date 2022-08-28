@@ -35,3 +35,7 @@ To create each file, I always look for references. So, I put it here.
 
 ### PearsonCorrelationCoefficient.swift
 <img width="476" alt="Screen Shot 2022-08-27 at 23 22 59" src="https://user-images.githubusercontent.com/49669018/187039031-9b44dcd9-b056-4dc4-a51b-f538f354389c.png">
+
+### CalculateCanberraDistance.swift
+![screenshot](https://user-images.githubusercontent.com/49669018/187055774-e3bb931b-01ad-4b16-9a79-6b22417fc2e8.jpg)
+
