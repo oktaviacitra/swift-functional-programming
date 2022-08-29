@@ -39,3 +39,5 @@ To create each file, I always look for references. So, I put it here.
 ### CalculateCanberraDistance.swift
 ![screenshot](https://user-images.githubusercontent.com/49669018/187055774-e3bb931b-01ad-4b16-9a79-6b22417fc2e8.jpg)
 
+### CalculateBraycurtisDistance.swift
+<img width="383" alt="Screen Shot 2022-08-29 at 11 42 34" src="https://user-images.githubusercontent.com/49669018/187124543-78e3e2cf-fd3e-4fcf-baea-61806a426612.png">
