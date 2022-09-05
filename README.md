@@ -41,3 +41,9 @@ To create each file, I always look for references. So, I put it here.
 
 ### CalculateBraycurtisDistance.swift
 <img width="383" alt="Screen Shot 2022-08-29 at 11 42 34" src="https://user-images.githubusercontent.com/49669018/187124543-78e3e2cf-fd3e-4fcf-baea-61806a426612.png">
+
+### ActivationRelu.swift
+- <a href="https://www.tensorflow.org/api_docs/python/tf/keras/activations/relu">Tensorflow Documentation</a>
+<img width="301" alt="Screen Shot 2022-09-05 at 14 59 50" src="https://user-images.githubusercontent.com/49669018/188398779-5d623115-5a11-46fa-81c8-0bbf4a12e6b1.png">
+
+
