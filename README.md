@@ -44,6 +44,11 @@ To create each file, I always look for references. So, I put it here.
 
 ### ActivationRelu.swift
 - <a href="https://www.tensorflow.org/api_docs/python/tf/keras/activations/relu">Tensorflow Documentation</a>
+- <a href="https://kotakode.com/blogs/3468/10-Konsep-Deep-Learning-yang-Harus-Kamu-Ketahui-untuk-Interview">Online Article</a>
 <img width="301" alt="Screen Shot 2022-09-05 at 14 59 50" src="https://user-images.githubusercontent.com/49669018/188398779-5d623115-5a11-46fa-81c8-0bbf4a12e6b1.png">
 
+### ActivationLeakyReLu.swift
+- <a href="https://www.tensorflow.org/api_docs/python/tf/keras/layers/LeakyReLU">Tensorflow Documentation</a>
+- <a href="https://kotakode.com/blogs/3468/10-Konsep-Deep-Learning-yang-Harus-Kamu-Ketahui-untuk-Interview">Online Article</a>
+<img width="434" alt="Screen Shot 2022-09-06 at 11 27 33" src="https://user-images.githubusercontent.com/49669018/188546982-2e934606-ef58-4ebd-bf05-e26eeed65b89.png">
 
