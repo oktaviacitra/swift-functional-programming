@@ -52,3 +52,7 @@ To create each file, I always look for references. So, I put it here.
 - <a href="https://kotakode.com/blogs/3468/10-Konsep-Deep-Learning-yang-Harus-Kamu-Ketahui-untuk-Interview">Online Article</a>
 <img width="434" alt="Screen Shot 2022-09-06 at 11 27 33" src="https://user-images.githubusercontent.com/49669018/188546982-2e934606-ef58-4ebd-bf05-e26eeed65b89.png">
 
+### ActivationElu.swift
+- <a href="https://www.tensorflow.org/api_docs/python/tf/keras/activations/elu">Tensorflow Documentation</a>
+- <a href="https://kotakode.com/blogs/3468/10-Konsep-Deep-Learning-yang-Harus-Kamu-Ketahui-untuk-Interview">Online Article</a>
+<img width="341" alt="Screen Shot 2022-09-07 at 19 59 39" src="https://user-images.githubusercontent.com/49669018/188884962-54351706-5772-4995-b66a-c87689965ec9.png">
