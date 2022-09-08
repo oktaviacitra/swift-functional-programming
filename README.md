@@ -56,3 +56,9 @@ To create each file, I always look for references. So, I put it here.
 - <a href="https://www.tensorflow.org/api_docs/python/tf/keras/activations/elu">Tensorflow Documentation</a>
 - <a href="https://kotakode.com/blogs/3468/10-Konsep-Deep-Learning-yang-Harus-Kamu-Ketahui-untuk-Interview">Online Article</a>
 <img width="341" alt="Screen Shot 2022-09-07 at 19 59 39" src="https://user-images.githubusercontent.com/49669018/188884962-54351706-5772-4995-b66a-c87689965ec9.png">
+
+### ActivationTanh.swift
+- <a href="https://www.tensorflow.org/api_docs/python/tf/keras/activations/tanh">Tensorflow Documentation</a>
+- <a href="https://kotakode.com/blogs/3468/10-Konsep-Deep-Learning-yang-Harus-Kamu-Ketahui-untuk-Interview">Online Article</a>
+<img width="304" alt="Screen Shot 2022-09-08 at 13 36 54" src="https://user-images.githubusercontent.com/49669018/189051776-9555a4c9-88cb-404d-8c04-fa7d36edc7db.png">
+
