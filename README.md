@@ -62,3 +62,8 @@ To create each file, I always look for references. So, I put it here.
 - <a href="https://kotakode.com/blogs/3468/10-Konsep-Deep-Learning-yang-Harus-Kamu-Ketahui-untuk-Interview">Online Article</a>
 <img width="304" alt="Screen Shot 2022-09-08 at 13 36 54" src="https://user-images.githubusercontent.com/49669018/189051776-9555a4c9-88cb-404d-8c04-fa7d36edc7db.png">
 
+### ActivationSigmoid.swift
+- <a href="https://www.tensorflow.org/api_docs/python/tf/keras/activations/sigmoid">Tensorflow Documentation</a>
+- <a href="https://kotakode.com/blogs/3468/10-Konsep-Deep-Learning-yang-Harus-Kamu-Ketahui-untuk-Interview">Online Article</a>
+<img width="297" alt="Screen Shot 2022-09-09 at 09 27 16" src="https://user-images.githubusercontent.com/49669018/189259608-232437d2-be33-46a4-9aad-b2eacea5efa8.png">
+
