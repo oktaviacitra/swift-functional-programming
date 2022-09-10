@@ -67,3 +67,6 @@ To create each file, I always look for references. So, I put it here.
 - <a href="https://kotakode.com/blogs/3468/10-Konsep-Deep-Learning-yang-Harus-Kamu-Ketahui-untuk-Interview">Online Article</a>
 <img width="297" alt="Screen Shot 2022-09-09 at 09 27 16" src="https://user-images.githubusercontent.com/49669018/189259608-232437d2-be33-46a4-9aad-b2eacea5efa8.png">
 
+#ActivationSoftmax.swift
+- <a href="https://developer.apple.com/documentation/accelerate/bnnsactivationfunction/2915301-softmax">Apple Documentation</a>
+- <a href="https://towardsdatascience.com/softmax-activation-function-how-it-actually-works-d292d335bd78">Online Article</a>
