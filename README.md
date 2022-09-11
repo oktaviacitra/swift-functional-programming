@@ -71,3 +71,7 @@ To create each file, I always look for references. So, I put it here.
 - <a href="https://developer.apple.com/documentation/accelerate/bnnsactivationfunction/2915301-softmax">Apple Documentation</a>
 - <a href="https://towardsdatascience.com/softmax-activation-function-how-it-actually-works-d292d335bd78">Online Article</a>
 <img width="316" alt="Screen Shot 2022-09-10 at 22 28 23" src="https://user-images.githubusercontent.com/49669018/189490301-54556cd2-d37a-401f-9353-50a7a85af825.png">
+
+### MinMaxScaler.swift
+- <a href="https://androidkt.com/how-to-scale-data-to-range-using-minmax-normalization/">Online Article</a>
+<img width="895" alt="Screen Shot 2022-09-11 at 09 22 44" src="https://user-images.githubusercontent.com/49669018/189509236-0d4ed169-90c2-4772-8576-1e62e67deb62.png">
