@@ -75,3 +75,8 @@ To create each file, I always look for references. So, I put it here.
 ### MinMaxScaler.swift
 - <a href="https://androidkt.com/how-to-scale-data-to-range-using-minmax-normalization/">Online Article</a>
 <img width="895" alt="Screen Shot 2022-09-11 at 09 22 44" src="https://user-images.githubusercontent.com/49669018/189509236-0d4ed169-90c2-4772-8576-1e62e67deb62.png">
+
+### StandardScaler.swift
+- <a href="https://medium.com/@kesarimohan87/data-preprocessing-6c87d27156">Online Article</a>
+<img width="129" alt="Screen Shot 2022-09-12 at 13 26 09" src="https://user-images.githubusercontent.com/49669018/189586970-d9df1160-c6ae-4922-bc3b-907e1246979f.png">
+
