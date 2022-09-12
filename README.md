@@ -78,5 +78,6 @@ To create each file, I always look for references. So, I put it here.
 
 ### StandardScaler.swift
 - <a href="https://medium.com/@kesarimohan87/data-preprocessing-6c87d27156">Online Article</a>
+- <a href="https://gist.github.com/jonelf/9ae2a2133e21e255e692">Github</a>
 <img width="129" alt="Screen Shot 2022-09-12 at 13 26 09" src="https://user-images.githubusercontent.com/49669018/189586970-d9df1160-c6ae-4922-bc3b-907e1246979f.png">
 
