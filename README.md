@@ -84,3 +84,5 @@ To create each file, I always look for references. So, I put it here.
 ### MaxAbsScaler.swift
 - <a href="https://pythonsimplified.com/difference-between-normalization-and-standardization/">Online Article</a>
 - <a href="https://scikit-learn.org/stable/modules/preprocessing.html">Scikit-learn Documentation</a>
+<img width="367" alt="Screen Shot 2022-09-13 at 10 39 07" src="https://user-images.githubusercontent.com/49669018/189802289-a64e79f8-37f6-436d-884e-e2828808df4c.png">
+
