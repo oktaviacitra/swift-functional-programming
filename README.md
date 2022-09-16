@@ -86,3 +86,11 @@ To create each file, I always look for references. So, I put it here.
 - <a href="https://scikit-learn.org/stable/modules/preprocessing.html">Scikit-learn Documentation</a>
 <img width="367" alt="Screen Shot 2022-09-13 at 10 39 07" src="https://user-images.githubusercontent.com/49669018/189802289-a64e79f8-37f6-436d-884e-e2828808df4c.png">
 
+### MedianOfNumbers.swift
+- <a href="https://www.cuemath.com/mean-median-mode-formula/">Online Article</a>
+
+### RobustScaler.swift
+- <a href="https://www.zenius.net/blog/rumus-kuartil-data-tunggal-dan-data-kelompok">OnlineArticle</a>
+- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.RobustScaler.html">Scikit-learn Documentation</a>
+- <a href="https://stackoverflow.com/questions/66072901/the-calculated-robustscaler-in-sklearn-seems-not-right">Stackoverflow</a>
+<img width="300" alt="Screen Shot 2022-09-16 at 10 19 52" src="https://user-images.githubusercontent.com/49669018/190549671-c4614b07-4e9b-4c95-8976-77211a80ff00.png">
