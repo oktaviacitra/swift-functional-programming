@@ -94,3 +94,7 @@ To create each file, I always look for references. So, I put it here.
 - <a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.RobustScaler.html">Scikit-learn Documentation</a>
 - <a href="https://stackoverflow.com/questions/66072901/the-calculated-robustscaler-in-sklearn-seems-not-right">Stackoverflow</a>
 <img width="300" alt="Screen Shot 2022-09-16 at 10 19 52" src="https://user-images.githubusercontent.com/49669018/190549671-c4614b07-4e9b-4c95-8976-77211a80ff00.png">
+
+### Flatten.swift
+- <a href="https://www.hackingwithswift.com/articles/205/whats-the-difference-between-map-flatmap-and-compactmap">Online Article about flatMap</a>
+- <a href="https://www.tensorflow.org/api_docs/python/tf/keras/layers/Flatten">Tensorflow documentation</a>
