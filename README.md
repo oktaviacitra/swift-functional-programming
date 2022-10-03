@@ -98,3 +98,8 @@ To create each file, I always look for references. So, I put it here.
 ### Flatten.swift
 - <a href="https://www.hackingwithswift.com/articles/205/whats-the-difference-between-map-flatmap-and-compactmap">Online Article about flatMap</a>
 - <a href="https://www.tensorflow.org/api_docs/python/tf/keras/layers/Flatten">Tensorflow documentation</a>
+
+### GaussianFilter.swift
+- <a href="https://stackoverflow.com/questions/20041391/why-gauss-filter-chooses-such-values">Stackoverflow</a>
+<img width="270" alt="Screen Shot 2022-10-03 at 11 21 30" src="https://user-images.githubusercontent.com/49669018/193501115-a01d7ef6-cb41-4e9d-a9a9-edfe0a882490.png">
+
